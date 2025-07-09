@@ -47,9 +47,11 @@ Description: Date the record was last updated
 
 
 
-👨‍💻 Developed By
-
 Name: Sarthak Pravin Nandre
+
 Role: Power BI Intern, Celebal Technologies
+
 LinkedIn Profile: https://www.linkedin.com/in/sarthak-nandre/
+
 GitHub Profile: https://github.com/sarthakpravinnandre
+
