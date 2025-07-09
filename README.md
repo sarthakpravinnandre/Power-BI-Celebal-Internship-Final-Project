@@ -46,14 +46,30 @@ Dynamic updates to tables and KPIs based on filters
 
 🗂️ Data Model Summary
 
-Date – Transaction or record date (e.g., Daily, Monthly)
-Fund Type – Type of fund (e.g., Deposits, Loans, Reserves)
-Amount – Monetary value related to the fund
-Pool Code – Unique identifier for each pool
-Mapping Status – Mapped / Unmapped / ERM Mapped
-Product Head – Head responsible for the product
-Product Name – Name of the financial product
-Last Updated – Date the record was last updated
+Field: Date  
+Description: Transaction or record date (e.g., Daily, Monthly)
+
+Field: Fund Type  
+Description: Type of fund (e.g., Deposits, Loans, Reserves)
+
+Field: Amount  
+Description: Monetary value related to the fund
+
+Field: Pool Code  
+Description: Unique identifier for each pool
+
+Field: Mapping Status  
+Description: Mapped / Unmapped / ERM Mapped
+
+Field: Product Head  
+Description: Head responsible for the product
+
+Field: Product Name  
+Description: Name of the financial product
+
+Field: Last Updated  
+Description: Date the record was last updated
+
 
 
 👨‍💻 Developed By
