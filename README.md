@@ -1,30 +1,25 @@
-📊 Pool Code Mapping Status Dashboard
+📊 Power BI – Pool Code Mapping Status Dashboard
 
-✅ Task Completion Status:
+✅ Project Status: Completed
 
-I have successfully completed the Pool Code Mapping Status Dashboard in Power BI, and the final .pbix file has been uploaded and linked with this repository.
+This repository contains the Power BI project developed during my internship at Celebal Technologies. The objective was to build a comprehensive dashboard that provides insights into the status of pool code mapping for financial products.
 
-🎯 Objective:
+🚀 Objective
 
-To develop an interactive and dynamic Power BI Dashboard that summarizes the pool code mapping status for better visibility, monitoring, and decision-making support.
+To design and develop an interactive Power BI dashboard that tracks and analyzes the mapping status of various pool codes. The dashboard supports informed decision-making, regulatory compliance, and strategic planning.
 
-📁 Dashboard Overview
-Key Components:
-Overview Section
-
-Displays summary KPIs:
-
+🧠 Key Features
+🔹 Overview Section
 Total Pool Codes
 
-Mapped Pool Codes
+Mapped Codes
 
-Unmapped Pool Codes
+Unmapped Codes
 
 ERM Mapped Codes
 
-Mapping Status Table
-
-Columns included:
+🔹 Mapping Status Table
+Detailed table with the following columns:
 
 Pool Code
 
@@ -36,8 +31,7 @@ Product Name
 
 Last Updated
 
-Interactivity Features
-
+🔹 Dashboard Interactivity
 Slicers for filtering by:
 
 Fund Type
@@ -46,17 +40,25 @@ Date
 
 Product or Branch (if applicable)
 
-Click-based filtering from charts to tables
+Clickable visual elements for drill-down
 
-Dynamic updates on performance metrics based on selected filters
+Dynamic updates to tables and KPIs based on filters
 
-📌 Data Model Summary
+🗂️ Data Model Summary
+
 Field	Description
-Date	Transaction or record date (e.g., daily)
-Fund Type	Type of fund (Deposits, Loans, etc.)
-Amount	Associated monetary value
-Pool Code	Unique pool identifier
-Mapping Status	Mapped / Unmapped / ERM Mapping
-Product Head	Responsible head
-Product Name	Linked product
-Last Updated	Date of last modification
+
+Date	          = Transaction or record date (e.g., Daily, Monthly)
+Fund Type       = Type of fund (e.g., Deposits, Loans, Reserves)
+Amount          = Monetary value related to the fund
+Pool Code	      = Unique identifier for each pool
+Mapping Status	= Mapped / Unmapped / ERM Mapped
+Product Head  	= Head responsible for the product
+Product Name	  = Name of the financial product
+Last Updated	  = Date the record was last updated
+
+👨‍💻 Developed By
+Sarthak Pravin Nandre
+🎓 Power BI Intern, Celebal Technologies
+🔗 LinkedIn Profile : https://www.linkedin.com/in/sarthak-nandre/
+🌐 GitHub Profile : https://github.com/sarthakpravinnandre
